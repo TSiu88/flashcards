@@ -1,0 +1,19 @@
+.btn{
+  width: 350px;
+  min-height: 200px;
+  margin: 30px 0;
+}
+
+.terms{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+h1 {
+  text-align: center;
+}
+
+p{
+  display: none;
+}
